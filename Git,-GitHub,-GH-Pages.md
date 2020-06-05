@@ -1,4 +1,4 @@
-# ACES Learn to Code
+# Learn to Code
 ## Git GitHub GH-Pages
 ### Details
 This tech session is geared toward those that want to learn software development but may not know where to start. At the end of this session you will:
