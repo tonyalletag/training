@@ -1,4 +1,4 @@
-# ACES Learn to Code
+# Learn to Code
 ## HTML, JavaScript, CSS
 ### Details
 This Learn to Code session is geared toward those that want to learn software development but do not know where to start. At the end of this session you will:
@@ -18,7 +18,7 @@ This Learn to Code session is geared toward those that want to learn software de
 1. Create a new file index.html page
 1. Add the standard HTML template to the file
    `<html><head><title>ACES Learn To Code...</title></head><body>ACES Learn To Code</body></html>`
-1. Save the index.html file and open it in a web browser 
+1. Save the index.html file and open it in a web browser
 
 ### Plan
 * Create a product page for T-shirts
@@ -26,17 +26,17 @@ This Learn to Code session is geared toward those that want to learn software de
    * Image
    * Product Description
    * Product Specs Table
-   * Form 
+   * Form
       * Choose Color
       * Size
       * Quantity
       * Order Button
    * Product Review Section
    * Display the user’s selection in an alert box
-   * Style the page using CSS 
+   * Style the page using CSS
 
 ### Steps <hr><br>
-Once you download the starter files, the link below has steps to complete this project. 
+Once you download the starter files, the link below has steps to complete this project.
 
 https://docs.google.com/document/d/17ht0wSV6R1pRzBQk0oovXkChMx3vOVqWRmUon-NTezI/edit?usp=sharing
 
